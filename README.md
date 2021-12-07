@@ -1,0 +1,2 @@
+# AdminCore-SDE
+CICD pipelines
