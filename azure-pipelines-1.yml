@@ -15,7 +15,8 @@
     <userSettings>
         <sdeAlarm.Properties.Settings>
             <setting name="Server" serializeAs="String">
-                <value>sde3.c4btv393jwt2.ap-southeast-1.rds.amazonaws.com</value>
+                <value>sde3.c4btv393jwt2.ap-southeast-1.rds.amazonaws.com</- task: ManualValidation@0
+  inputs:ue>
             </setting>
             <setting name="Database" serializeAs="String">
                 <value>sde</value>
